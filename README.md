@@ -1,4 +1,4 @@
-# matter-wifi 1.0.0
+# matter-wifi 1.2.0
 
 ## Overview
 
@@ -26,4 +26,4 @@ For more information, refer to the following:
 * [Infineon Technologies AG](https://www.infineon.com)
 
 ---
-© 2022, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.
+© 2024, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.

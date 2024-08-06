@@ -1,4 +1,4 @@
-# matter-wifi 1.0.0
+# matter-wifi 1.2.0
 
 ## What's Included?
 
@@ -6,9 +6,8 @@
 * Use of Bluetooth&reg; Low Energy (LE) and Wi-Fi wireless connectivity standards.
 * Out of the box support for WiFi Doorlock application.
 
-## Defect Fixes
-
-* Initial release
+## Fixes
+* Update to Matter v1.2.0.1 
 
 ## Supported Software and Tools
 
@@ -16,11 +15,11 @@ This version of matter-wifi was validated for compatibility with the following s
 
 | Software and Tools                                      | Version |
 | :---                                                    | :----:  |
-| ModusToolbox&trade; tools package                       | 3.0.0   |
-| CAT1 Peripheral Driver Library (PDL)                    | 3.2.0   |
-| CAT1 Hardware Abstraction Layer (HAL)                   | 2.2.0   |
-| Core library                                            | 1.3.1   |
-| GCC compiler                                            | 10.3.1  |
+| ModusToolbox&trade; tools package                       | 3.2.0   |
+| CAT1 Peripheral Driver Library (PDL)                    | 3.11.0  |
+| CAT1 Hardware Abstraction Layer (HAL)                   | 2.6.0   |
+| Core library                                            | 1.4.2   |
+| GCC compiler                                            | 11.3.1  |
 
 ## More information
 
@@ -32,4 +31,4 @@ For more information, refer to the following:
 * [Infineon Technologies AG](https://www.infineon.com)
 
 ---
-© 2022, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.
+© 2024, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.
